@@ -1,3 +1,3 @@
 <?php
 
-$main = true;
+$main = false;
