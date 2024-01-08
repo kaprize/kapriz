@@ -2,4 +2,4 @@
 
 $main = true;
 
-$ver = 105;
+$ver = 106;
